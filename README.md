@@ -11,4 +11,4 @@
 - [ ] Add docs folder
 - [ ] Add scripts
 - [ ] Add envrionment configs
-- [ ] Setup app flavors
+- [ ] Setup app flavor
