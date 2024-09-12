@@ -1,6 +1,6 @@
 # Project Check list
 
-- [x] Boostrap project
+- [x] Boostrap CLI project
 - [ ] Add UI library
 - [ ] Setup folder structure
 - [ ] Setup ESLint, Prettier and Jest
