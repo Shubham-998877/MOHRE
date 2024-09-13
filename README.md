@@ -1,9 +1,12 @@
 # Project Check list
 
 - [x] Boostrap CLI project
+- [x] Setup Assets PNG, SVG
+- [x] Setup Fonts
 - [ ] Add UI library
 - [ ] Setup folder structure
-- [ ] Setup ESLint, Prettier and Jest
+- [x] Setup ESLint, Prettier
+- [ ] Setup Jest
 - [ ] Add config for absolute import
 - [ ] Setup i18n
 - [ ] Setup global libraries and stores
